@@ -88,7 +88,7 @@ Uber-PowerBI-Dashboard/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Uber-PowerBI-Dashboard.git
+   git clone https://github.com/priyanshushekhar0077/Uber_Power-BI_Dashboard
    ```
 
 2. Open the `.pbix` file in Power BI Desktop.
