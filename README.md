@@ -35,11 +35,9 @@ The dashboard helps stakeholders understand key business metrics and make data-d
 ```text
 Uber-PowerBI-Dashboard/
 │
-├── Dataset/
-│   └── uber_data.csv
+├── uber_data.csv
 │
-├── Dashboard/
-│   └── Uber_Dashboard.pbix
+├──  Uber_Dashboard.pbix
 │
 ├── Images/
 │   ├── dashboard_overview.png
