@@ -1,4 +1,4 @@
-# 🚖 Uber Trip Analysis Dashboard | Power BI Project
+<img width="360" height="360" alt="IntercityComfort" src="https://github.com/user-attachments/assets/59f782d5-ad82-42b8-aa68-babab765bf87" /># 🚖 Uber Trip Analysis Dashboard | Power BI Project
 
 ## 📌 Project Overview
 This project is an interactive **Power BI dashboard** built to analyze Uber trip data and provide insights into booking patterns, revenue generation, trip efficiency, and customer behavior.
@@ -35,14 +35,18 @@ The dashboard helps stakeholders understand key business metrics and make data-d
 ```text
 Uber-PowerBI-Dashboard/
 │
-├── uber_data.csv
+├── Uber_Full_Data.xlsx
 │
-├──  Uber_Dashboard.pbix
+├──  Uber.pbix
 │
 ├── Images/
-│   ├── dashboard_overview.png
-│   ├── booking_analysis.png
-│   └── revenue_analysis.png
+│   ├── Operations Overview.png
+│   ├── Rides & Revenue Trends.png
+│   ├── Vehicle Types & Payment Mix.png
+│   ├── Pickup, Drop & Routes.png
+│   ├── Driver Performance.png
+│   ├── IntercityComfort.png
+│   └── Customer Insights.png
 │
 └── README.md
 ```
@@ -51,12 +55,41 @@ Uber-PowerBI-Dashboard/
 
 ## 📸 Dashboard Preview
 
-### Main Dashboard
+//### Main Dashboard
 (Add screenshot here)
+//
+//```md
+//![Dashboard Preview](Images/Operations Overview.png.png)
+//```
+### Main Dashboard
 
-```md
-![Dashboard Preview](Images/dashboard_overview.png)
-```
+![Dashboard Preview](Images/Operations Overview.png)
+
+### Customer Insights
+
+![Customer Insights](Images/Customer Insights.png)
+
+### Driver Performance
+
+![Driver Performance](Images/Driver Performance.png)
+
+### Intercity Comfort
+
+![Intercity Comfort](Images/IntercityComfort.png)
+
+### Pickup, Drop & Routes
+
+![Pickup, Drop & Routes](Images/Pickup, Drop & Routes.png)
+
+### Rides & Revenue Trends
+
+![Rides & Revenue Trends](Images/Rides & Revenue Trends.png)
+
+### Vehicle Types & Payment Mix
+
+![Vehicle Types & Payment Mix](Images/Vehicle Types & Payment Mix.png)
+
+
 
 ---
 
