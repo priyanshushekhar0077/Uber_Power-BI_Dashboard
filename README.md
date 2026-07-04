@@ -1,4 +1,4 @@
-<img width="360" height="360" alt="IntercityComfort" src="https://github.com/user-attachments/assets/59f782d5-ad82-42b8-aa68-babab765bf87" /># 🚖 Uber Trip Analysis Dashboard | Power BI Project
+# 🚖 Uber Trip Analysis Dashboard | Power BI Project
 
 ## 📌 Project Overview
 This project is an interactive **Power BI dashboard** built to analyze Uber trip data and provide insights into booking patterns, revenue generation, trip efficiency, and customer behavior.
@@ -54,40 +54,31 @@ Uber-PowerBI-Dashboard/
 ---
 
 ## 📸 Dashboard Preview
-
-//### Main Dashboard
 (Add screenshot here)
-//
-//```md
-//![Dashboard Preview](Images/Operations Overview.png.png)
-//```
-### Main Dashboard
 
-![Dashboard Preview](Images/Operations Overview.png)
+# Main Dashboard
 
-### Customer Insights
+![Dashboard Preview](Images/Operations_Overview.png)
 
-![Customer Insights](Images/Customer Insights.png)
+# Customer Insights
 
-### Driver Performance
+![Customer Insights](Images/Customer_Insights.png)
 
-![Driver Performance](Images/Driver Performance.png)
+# Driver Performance
 
-### Intercity Comfort
+![Driver Performance](Images/Driver_Performance.png)
 
-![Intercity Comfort](Images/IntercityComfort.png)
+# Pickup, Drop & Routes
 
-### Pickup, Drop & Routes
-
-![Pickup, Drop & Routes](Images/Pickup, Drop & Routes.png)
+![Pickup, Drop & Routes](Images/Pickup,_Drop_&_Routes.png)
 
 ### Rides & Revenue Trends
 
-![Rides & Revenue Trends](Images/Rides & Revenue Trends.png)
+![Rides & Revenue Trends](Images/Rides_&_Revenue_Trends.png)
 
-### Vehicle Types & Payment Mix
+# Vehicle Types & Payment Mix
 
-![Vehicle Types & Payment Mix](Images/Vehicle Types & Payment Mix.png)
+![Vehicle Types & Payment Mix](Images/Vehicle_Types_&_Payment_Mix.png)
 
 
 
@@ -134,10 +125,12 @@ Uber-PowerBI-Dashboard/
 
 | Dashboard | Description |
 |-----------|------------|
-| Overview | Summary of all key business metrics |
-| Revenue Analysis | Revenue and fare insights |
-| Trip Analysis | Trip trends and patterns |
-| Location Analysis | Pickup and drop-off hotspot analysis |
+| Overview | Summary of all key business metrics. |
+| Customer Insights | Analysis of customer behavior and trends. |
+| Driver Performance | Insights into driver activity and performance. |
+| Pickup, Drop & Routes | Analysis of locations and travel routes. |
+| Rides & Revenue Trends | Trends in rides and revenue over time. |
+| Vehicle Types & Payment Mix | Distribution of vehicle types and payment methods. |
 
 ---
 
